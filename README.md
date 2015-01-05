@@ -17,7 +17,7 @@ Assuming Java (tested with JRE 1.6) you can start crawling using the following c
 ```
 // The first argument to the JAR is the URL
 // The second argument is the maximum number of threads that should be created
-java -jar /path/to/Scraper.jar http://gocardless.com 40
+java -jar /path/to/Scraper.jar http://www.google.com 40
 ```
 
 2.  Implementation details
