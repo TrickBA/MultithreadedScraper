@@ -12,3 +12,5 @@ hs_err_pid*
 
 .idea
 META-INF
+out
+Scraper.iml
