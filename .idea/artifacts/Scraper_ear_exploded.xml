@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="Scraper:ear exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/Scraper_ear_exploded</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="Scraper/javaeeApplication/javaEEApplication" />
-    </root>
-  </artifact>
-</component>
